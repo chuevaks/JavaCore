@@ -1,6 +1,6 @@
-package Participants;
+package lesson1.Participants;
 
-import Competition.Result;
+import lesson1.Competition.Result;
 
 import java.util.ArrayList;
 

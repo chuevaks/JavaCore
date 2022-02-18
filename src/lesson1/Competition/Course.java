@@ -1,7 +1,7 @@
-package Competition;
+package lesson1.Competition;
 
-import Participants.Team;
-import Tasks.*;
+import lesson1.Participants.Team;
+import lesson1.Tasks.*;
 
 public class Course {
 

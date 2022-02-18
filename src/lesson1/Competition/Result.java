@@ -1,6 +1,6 @@
-package Competition;
+package lesson1.Competition;
 
-import Participants.Animal;
+import lesson1.Participants.Animal;
 
 public class Result {
 

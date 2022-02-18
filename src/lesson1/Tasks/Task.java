@@ -1,5 +1,5 @@
-package Tasks;
-import Participants.Team;
+package lesson1.Tasks;
+import lesson1.Participants.Team;
 
 public abstract class Task{
 
