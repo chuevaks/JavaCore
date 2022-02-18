@@ -1,4 +1,4 @@
-package Participants;
+package lesson1.Participants;
 
 public enum Animal {
 

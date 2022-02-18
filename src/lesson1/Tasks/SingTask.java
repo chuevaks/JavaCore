@@ -1,8 +1,8 @@
-package Tasks;
+package lesson1.Tasks;
 
-import Competition.Result;
-import Participants.Animal;
-import Participants.Team;
+import lesson1.Competition.Result;
+import lesson1.Participants.Animal;
+import lesson1.Participants.Team;
 
 public class SingTask extends Task{
 
