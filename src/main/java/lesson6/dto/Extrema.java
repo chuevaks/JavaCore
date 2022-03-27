@@ -4,7 +4,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 
 public class Extrema {
     @JsonProperty("Value")
-    public int value;
+    public double value;
     @JsonProperty("Unit")
     public String unit;
     @JsonProperty("UnitType")
