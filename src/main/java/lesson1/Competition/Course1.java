@@ -3,11 +3,11 @@ package lesson1.Competition;
 import lesson1.Participants.Team;
 import lesson1.Tasks.*;
 
-public class Course {
+public class Course1 {
 
     private Task[] tasks;
 
-    public Course() {
+    public Course1() {
         tasks = new Task[4];
         tasks[0] = new RunTask(8);
         tasks[1] = new SwimTask(5);
